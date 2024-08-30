@@ -3,7 +3,7 @@
 
 ### Hi there, I'm Praveen! 👋
 
-I'm an enthusiastic Front-end developer from India, learning  full stack development. I enjoy creating practical solutions for real-world problems, constantly exploring new technologies to enhance my skills.
+I'm an enthusiastic Front-end developer,and learning the full stack development. I enjoy creating practical solutions for real-world problems, constantly exploring new technologies to enhance my skills.
 
 ---
 
