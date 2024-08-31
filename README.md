@@ -2,8 +2,9 @@
 
 
 ### Hi there, I'm Praveen! 👋
+Btech-IT Student at Hindusthan college of engineering and technology , coimbatore. 
 
-I'm an enthusiastic Front-end developer,and learning the full stack development. I enjoy creating practical solutions for real-world problems, constantly exploring new technologies to enhance my skills.
+I'm an enthusiastic Front-end developer. Now I'm learning full stack development. I enjoy creating practical solutions for real-world problems, constantly exploring new technologies to enhance my skills.
 
 ---
 
