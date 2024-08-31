@@ -8,6 +8,8 @@ I'm an enthusiastic Front-end developer. Now I'm learning full stack development
 
 e-mail : praveen.siva442004@gmail.com
 
+resume link : https://drive.google.com/file/d/1MxbsUHNobapRySu5Oj5pooQsgGbx5jI3/view?usp=drivesdk
+
 ---
 
 ### 🛠️ Tech Stack
