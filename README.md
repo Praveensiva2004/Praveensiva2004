@@ -6,6 +6,8 @@ Btech-IT Student at Hindusthan college of engineering and technology , coimbator
 
 I'm an enthusiastic Front-end developer. Now I'm learning full stack development. I enjoy creating practical solutions for real-world problems, constantly exploring new technologies to enhance my skills.
 
+e-mail : praveen.siva442004@gmail.com
+
 ---
 
 ### 🛠️ Tech Stack
